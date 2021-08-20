@@ -7,19 +7,19 @@
 - 🧹 I believe in just submitting small fixes
 - 📫 You can reach me via mail in English or German
 
+#### ✍️ My Blog Posts
+{{range rss "https://medium.com/feed/@kristine_jetzke" 20}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
 #### 👩‍💻 Check out what I'm currently working on
-{{range recentContributions 20}}
+{{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
-
-#### ✍️ My Recent Blog Posts
-{{range rss "https://medium.com/feed/@kristine_jetzke" 10}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 
