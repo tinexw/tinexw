@@ -1,33 +1,29 @@
-Hi, I’m @kreuzwerkerbot, the automation bot <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Hi, I’m tine!
 
 <img align="right" src="https://raw.githubusercontent.com/kreuzwerkerbot/kreuzwerkerbot/master/assets/xw.png" width="200">
 
-- 👀 I’m interested in making engineers' life easier, e.g. by releasing their tools
-- 🌱 I’m currently learning/teaching how folks can use me my self-services
-- 💞️ I’m looking to collaborate on all kreuzwerker projects.
-- 📫 How to reach me ... uff this is very hard
+- 🌱 I worked with Java and Spring Boot for yeeeeeears... but I just pick up what I need.
+- 💪 I’m passionate about automation - test automation, infrastructue automation, CI/CD
+- 🧹 I believe in just submitting small fixes
+- 📫 You can reach me via mail in English or German
 
-## Languages and Tools
+#### 👩‍💻 Check out what I'm currently working on
 
-<p>
+- [kreuzwerker/blog-testing-with-cdk](https://github.com/kreuzwerker/blog-testing-with-cdk) - Examples from blog post https://kreuzwerker.de/post/infrastructure-tests-with-cdk (2 weeks ago)
+- [kreuzwerker/pact-multipart-issue](https://github.com/kreuzwerker/pact-multipart-issue) -  (2 months ago)
+- [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) - GitHub Action that generates code coverage reports (2 months ago)
+- [pact-foundation/docs.pact.io](https://github.com/pact-foundation/docs.pact.io) - Pact documentation website (3 months ago)
+- [tinexw/cdk-intro](https://github.com/tinexw/cdk-intro) - Intro to AWS CDK (4 months ago)
 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-official.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/containerdio/containerdio-ar21.svg"></code>
-  <br />
- 
-</p>
-
-### 🔭 Latest releases I've contributed to
+#### 🔭 Latest releases I've contributed to
 
 - [pact-foundation/pact-jvm](https://github.com/pact-foundation/pact-jvm) ([4_3_0-beta_0](https://github.com/pact-foundation/pact-jvm/releases/tag/4_3_0-beta_0), 1 week ago) - JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
-
 - [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) ([v0.5.0](https://github.com/barecheck/code-coverage-action/releases/tag/v0.5.0), 4 weeks ago) - GitHub Action that generates code coverage reports
+#### ✨ Stats
+
+[![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
