@@ -2,9 +2,9 @@
 
 <img align="right" src="https://raw.githubusercontent.com/kreuzwerkerbot/kreuzwerkerbot/master/assets/xw.png" width="200">
 
-- 🌱 I worked with Java and Spring Boot for yeeeeeears... but I just pick up what I need
+- 🌱 I worked with Java and Spring Boot for yeeeeeears... but I love to pick up new languages and tools
 - 💪 I’m passionate about automation - test automation, infrastructue automation, CI/CD
-- 🧹 I believe in just submitting small fixes
+- 🧹 I believe in submitting small fixes
 - 📫 You can reach me via mail in English or German
 
 #### ✍️ My Blog Posts
