@@ -8,7 +8,7 @@
 - 📫 You can reach me via mail in English or German
 
 #### 👩‍💻 Check out what I'm currently working on
-{{range recentContributions 5}}
+{{range recentContributions 20}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
