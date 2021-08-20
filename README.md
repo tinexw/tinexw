@@ -1,4 +1,4 @@
-Hi, I’m tine!
+👋 Hi, I’m tine!
 
 <img align="right" src="https://raw.githubusercontent.com/kreuzwerkerbot/kreuzwerkerbot/master/assets/xw.png" width="200">
 
