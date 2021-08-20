@@ -14,6 +14,9 @@
 - [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) - GitHub Action that generates code coverage reports (2 months ago)
 - [pact-foundation/docs.pact.io](https://github.com/pact-foundation/docs.pact.io) - Pact documentation website (3 months ago)
 - [tinexw/cdk-intro](https://github.com/tinexw/cdk-intro) - Intro to AWS CDK (4 months ago)
+- [tinexw/cdc-with-pact](https://github.com/tinexw/cdc-with-pact) -  (7 months ago)
+- [tinexw/cdc-demo](https://github.com/tinexw/cdc-demo) -  (10 months ago)
+- [pact-foundation/pact-jvm](https://github.com/pact-foundation/pact-jvm) - JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project. (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
