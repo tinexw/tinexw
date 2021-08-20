@@ -16,6 +16,13 @@
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
+
+#### ✍️ My Recent Blog Posts
+{{range rss "@kristine_jetzke.medium.com/feed" 10}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
+
 #### ✨ Stats
 
   [![](https://raw.githubusercontent.com/tinexw/tinexw/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
