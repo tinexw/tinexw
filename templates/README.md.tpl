@@ -18,7 +18,7 @@
 {{- end}}
 
 #### ✍️ My Recent Blog Posts
-{{range rss "@kristine_jetzke.medium.com/feed" 10}}
+{{range rss "medium.com/feed/@kristine_jetzke" 10}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
