@@ -24,9 +24,7 @@
 - [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) ([v0.5.0](https://github.com/barecheck/code-coverage-action/releases/tag/v0.5.0), 4 weeks ago) - GitHub Action that generates code coverage reports
 #### ✨ Stats
 
-[![](https://raw.githubusercontent.com/tinexw/tinexw/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/tinexw/tinexw/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/tinexw/tinexw/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/tinexw/tinexw/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
+[![](https://raw.githubusercontent.com/tinexw/tinexw/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/tinexw/tinexw/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
