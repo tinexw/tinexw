@@ -22,7 +22,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [kreuzwerker/blog-testing-with-cdk](https://github.com/kreuzwerker/blog-testing-with-cdk) - Examples from blog post https://kreuzwerker.de/post/infrastructure-tests-with-cdk (2 weeks ago)
+- [kreuzwerker/blog-testing-with-cdk](https://github.com/kreuzwerker/blog-testing-with-cdk) - Examples from blog post https://kreuzwerker.de/post/infrastructure-tests-with-cdk (3 weeks ago)
 - [kreuzwerker/pact-multipart-issue](https://github.com/kreuzwerker/pact-multipart-issue) -  (2 months ago)
 - [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) - GitHub Action that generates code coverage reports (2 months ago)
 - [pact-foundation/docs.pact.io](https://github.com/pact-foundation/docs.pact.io) - Pact documentation website (3 months ago)
@@ -34,7 +34,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [pact-foundation/pact-jvm](https://github.com/pact-foundation/pact-jvm) ([4_3_0-beta_0](https://github.com/pact-foundation/pact-jvm/releases/tag/4_3_0-beta_0), 1 week ago) - JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
-- [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) ([v0.5.0](https://github.com/barecheck/code-coverage-action/releases/tag/v0.5.0), 4 weeks ago) - GitHub Action that generates code coverage reports
+- [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) ([v0.5.0](https://github.com/barecheck/code-coverage-action/releases/tag/v0.5.0), 1 month ago) - GitHub Action that generates code coverage reports
 
 
 #### ✨ Stats
