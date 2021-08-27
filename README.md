@@ -33,8 +33,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) ([v0.5.1](https://github.com/barecheck/code-coverage-action/releases/tag/v0.5.1), 3 days ago) - GitHub Action that generates code coverage reports
-- [pact-foundation/pact-jvm](https://github.com/pact-foundation/pact-jvm) ([4_3_0-beta_1](https://github.com/pact-foundation/pact-jvm/releases/tag/4_3_0-beta_1), 3 days ago) - JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
+- [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) ([v0.5.1](https://github.com/barecheck/code-coverage-action/releases/tag/v0.5.1), 4 days ago) - GitHub Action that generates code coverage reports
+- [pact-foundation/pact-jvm](https://github.com/pact-foundation/pact-jvm) ([4_3_0-beta_1](https://github.com/pact-foundation/pact-jvm/releases/tag/4_3_0-beta_1), 4 days ago) - JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 
 
 #### ✨ Stats
