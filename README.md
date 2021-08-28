@@ -9,8 +9,8 @@
 
 #### ✍️ My Blog Posts
 
-- [Brief Primer on CDK](https://medium.com/kreuzwerker-gmbh/brief-primer-on-aws-cloud-development-kit-cdk-a538d1263c1d?source=rss-89559c85e3f4------2) (4 weeks ago)
-- [Infrastructure Tests with CDK](https://medium.com/kreuzwerker-gmbh/infrastructure-tests-with-cdk-99e8a163286a?source=rss-89559c85e3f4------2) (4 weeks ago)
+- [Brief Primer on CDK](https://medium.com/kreuzwerker-gmbh/brief-primer-on-aws-cloud-development-kit-cdk-a538d1263c1d?source=rss-89559c85e3f4------2) (1 month ago)
+- [Infrastructure Tests with CDK](https://medium.com/kreuzwerker-gmbh/infrastructure-tests-with-cdk-99e8a163286a?source=rss-89559c85e3f4------2) (1 month ago)
 - [Parameterized Tests — My Favorite JUnit 5 Feature](https://medium.com/kreuzwerker-gmbh/my-favorite-feature-of-junit-5-or-why-you-should-upgrade-to-junit-5-4cf88478863?source=rss-89559c85e3f4------2) (1 year ago)
 - [Migrating Pact Contract Tests from JUnit4 to JUni5](https://medium.com/kreuzwerker-gmbh/migrating-pact-contract-tests-from-junit4-to-juni5-d02194637903?source=rss-89559c85e3f4------2) (1 year ago)
 - [Tips &amp; Tricks for better log analysis with Kibana — Part 3: How to improve usability and…](https://medium.com/kreuzwerker-gmbh/tips-tricks-for-better-log-analysis-with-kibana-part-3-2205266a7779?source=rss-89559c85e3f4------2) (2 years ago)
@@ -22,7 +22,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [kreuzwerker/blog-testing-with-cdk](https://github.com/kreuzwerker/blog-testing-with-cdk) - Examples from blog post https://kreuzwerker.de/post/infrastructure-tests-with-cdk (3 weeks ago)
+- [kreuzwerker/blog-testing-with-cdk](https://github.com/kreuzwerker/blog-testing-with-cdk) - Examples from blog post https://kreuzwerker.de/post/infrastructure-tests-with-cdk (4 weeks ago)
 - [kreuzwerker/pact-multipart-issue](https://github.com/kreuzwerker/pact-multipart-issue) -  (2 months ago)
 - [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) - GitHub Action that generates code coverage reports (2 months ago)
 - [pact-foundation/docs.pact.io](https://github.com/pact-foundation/docs.pact.io) - Pact documentation website (3 months ago)
@@ -33,7 +33,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) ([v0.5.1](https://github.com/barecheck/code-coverage-action/releases/tag/v0.5.1), 4 days ago) - GitHub Action that generates code coverage reports
+- [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) ([v0.5.1](https://github.com/barecheck/code-coverage-action/releases/tag/v0.5.1), 5 days ago) - GitHub Action that generates code coverage reports
 
 
 #### ✨ Stats
