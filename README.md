@@ -29,7 +29,6 @@
 - [tinexw/cdk-intro](https://github.com/tinexw/cdk-intro) - Intro to AWS CDK (5 months ago)
 - [tinexw/cdc-with-pact](https://github.com/tinexw/cdc-with-pact) -  (7 months ago)
 - [tinexw/cdc-demo](https://github.com/tinexw/cdc-demo) -  (10 months ago)
-- [pact-foundation/pact-jvm](https://github.com/pact-foundation/pact-jvm) - JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project. (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
