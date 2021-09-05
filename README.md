@@ -28,7 +28,7 @@
 - [pact-foundation/docs.pact.io](https://github.com/pact-foundation/docs.pact.io) - Pact documentation website (4 months ago)
 - [tinexw/cdk-intro](https://github.com/tinexw/cdk-intro) - Intro to AWS CDK (5 months ago)
 - [tinexw/cdc-with-pact](https://github.com/tinexw/cdc-with-pact) -  (7 months ago)
-- [tinexw/cdc-demo](https://github.com/tinexw/cdc-demo) -  (10 months ago)
+- [tinexw/cdc-demo](https://github.com/tinexw/cdc-demo) -  (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
