@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) ([v0.5.1](https://github.com/barecheck/code-coverage-action/releases/tag/v0.5.1), 3 weeks ago) - GitHub Action that generates code coverage reports
+- [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) ([v0.5.1](https://github.com/barecheck/code-coverage-action/releases/tag/v0.5.1), 4 weeks ago) - GitHub Action that generates code coverage reports
 
 
 #### ✨ Stats
