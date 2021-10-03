@@ -23,7 +23,6 @@
 #### 👩‍💻 Check out what I'm currently working on
 
 - [kreuzwerker/blog-testing-with-cdk](https://github.com/kreuzwerker/blog-testing-with-cdk) - Examples from blog post https://kreuzwerker.de/post/infrastructure-tests-with-cdk (2 months ago)
-- [kreuzwerker/pact-multipart-issue](https://github.com/kreuzwerker/pact-multipart-issue) -  (3 months ago)
 - [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) - GitHub Action that generates code coverage reports (3 months ago)
 - [pact-foundation/docs.pact.io](https://github.com/pact-foundation/docs.pact.io) - Pact documentation website (5 months ago)
 - [tinexw/cdk-intro](https://github.com/tinexw/cdk-intro) - Intro to AWS CDK (6 months ago)
