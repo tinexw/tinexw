@@ -26,7 +26,7 @@
 - [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) - GitHub Action that generates code coverage reports (4 months ago)
 - [pact-foundation/docs.pact.io](https://github.com/pact-foundation/docs.pact.io) - Pact documentation website (5 months ago)
 - [tinexw/cdk-intro](https://github.com/tinexw/cdk-intro) - Intro to AWS CDK (6 months ago)
-- [tinexw/cdc-with-pact](https://github.com/tinexw/cdc-with-pact) -  (8 months ago)
+- [tinexw/cdc-with-pact](https://github.com/tinexw/cdc-with-pact) -  (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
