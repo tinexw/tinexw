@@ -22,6 +22,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
+- [tinexw/cdc-demo](https://github.com/tinexw/cdc-demo) -  (today)
 - [kreuzwerker/blog-testing-with-cdk](https://github.com/kreuzwerker/blog-testing-with-cdk) - Examples from blog post https://kreuzwerker.de/post/infrastructure-tests-with-cdk (2 months ago)
 - [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) - GitHub Action that generates code coverage reports (4 months ago)
 - [pact-foundation/docs.pact.io](https://github.com/pact-foundation/docs.pact.io) - Pact documentation website (5 months ago)
