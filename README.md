@@ -9,7 +9,7 @@
 
 #### ✍️ My Blog Posts
 
-- [Reduce Security Risks by Keeping Dependencies Up-To-Date with GitHub Actions and Dependabot](https://medium.com/kreuzwerker-gmbh/reduce-security-risks-by-keeping-dependencies-up-to-date-with-github-actions-and-dependabot-e4ca2da48c63?source=rss-89559c85e3f4------2) (today)
+- [Reduce Security Risks by Keeping Dependencies Up-To-Date with GitHub Actions and Dependabot](https://medium.com/kreuzwerker-gmbh/reduce-security-risks-by-keeping-dependencies-up-to-date-with-github-actions-and-dependabot-e4ca2da48c63?source=rss-89559c85e3f4------2) (1 day ago)
 - [Brief Primer on AWS CDK](https://medium.com/kreuzwerker-gmbh/brief-primer-on-aws-cloud-development-kit-cdk-a538d1263c1d?source=rss-89559c85e3f4------2) (4 months ago)
 - [Infrastructure Tests with AWS CDK](https://medium.com/kreuzwerker-gmbh/infrastructure-tests-with-cdk-99e8a163286a?source=rss-89559c85e3f4------2) (4 months ago)
 - [Parameterized Tests — My Favorite JUnit 5 Feature](https://medium.com/kreuzwerker-gmbh/my-favorite-feature-of-junit-5-or-why-you-should-upgrade-to-junit-5-4cf88478863?source=rss-89559c85e3f4------2) (1 year ago)
@@ -22,9 +22,9 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) - The New Home for Spring Cloud AWS (1 day ago)
-- [kreuzwerker/blog-log4j-dependency-update](https://github.com/kreuzwerker/blog-log4j-dependency-update) -  (2 days ago)
-- [tinexw/cdc-demo](https://github.com/tinexw/cdc-demo) -  (1 month ago)
+- [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) - The New Home for Spring Cloud AWS (2 days ago)
+- [kreuzwerker/blog-log4j-dependency-update](https://github.com/kreuzwerker/blog-log4j-dependency-update) -  (3 days ago)
+- [tinexw/cdc-demo](https://github.com/tinexw/cdc-demo) -  (2 months ago)
 - [kreuzwerker/blog-testing-with-cdk](https://github.com/kreuzwerker/blog-testing-with-cdk) - Examples from blog post https://kreuzwerker.de/post/infrastructure-tests-with-cdk (4 months ago)
 - [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) - GitHub Action that generates code coverage reports (6 months ago)
 - [pact-foundation/docs.pact.io](https://github.com/pact-foundation/docs.pact.io) - Pact documentation website (7 months ago)
@@ -33,7 +33,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) ([v2.3.3](https://github.com/awspring/spring-cloud-aws/releases/tag/v2.3.3), 1 day ago) - The New Home for Spring Cloud AWS
+- [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) ([v2.3.3](https://github.com/awspring/spring-cloud-aws/releases/tag/v2.3.3), 2 days ago) - The New Home for Spring Cloud AWS
 - [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) ([v0.5.1](https://github.com/barecheck/code-coverage-action/releases/tag/v0.5.1), 3 months ago) - GitHub Action that generates code coverage reports
 
 
