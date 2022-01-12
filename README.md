@@ -9,7 +9,7 @@
 
 #### ✍️ My Blog Posts
 
-- [Reduce Security Risks by Keeping Dependencies Up-To-Date with GitHub Actions and Dependabot](https://medium.com/kreuzwerker-gmbh/reduce-security-risks-by-keeping-dependencies-up-to-date-with-github-actions-and-dependabot-e4ca2da48c63?source=rss-89559c85e3f4------2) (3 weeks ago)
+- [Reduce Security Risks by Keeping Dependencies Up-To-Date with GitHub Actions and Dependabot](https://medium.com/kreuzwerker-gmbh/reduce-security-risks-by-keeping-dependencies-up-to-date-with-github-actions-and-dependabot-e4ca2da48c63?source=rss-89559c85e3f4------2) (4 weeks ago)
 - [Brief Primer on AWS CDK](https://medium.com/kreuzwerker-gmbh/brief-primer-on-aws-cloud-development-kit-cdk-a538d1263c1d?source=rss-89559c85e3f4------2) (5 months ago)
 - [Infrastructure Tests with AWS CDK](https://medium.com/kreuzwerker-gmbh/infrastructure-tests-with-cdk-99e8a163286a?source=rss-89559c85e3f4------2) (5 months ago)
 - [Parameterized Tests — My Favorite JUnit 5 Feature](https://medium.com/kreuzwerker-gmbh/my-favorite-feature-of-junit-5-or-why-you-should-upgrade-to-junit-5-4cf88478863?source=rss-89559c85e3f4------2) (2 years ago)
@@ -23,7 +23,7 @@
 #### 👩‍💻 Check out what I'm currently working on
 
 - [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) - The New Home for Spring Cloud AWS (4 weeks ago)
-- [kreuzwerker/blog-log4j-dependency-update](https://github.com/kreuzwerker/blog-log4j-dependency-update) -  (4 weeks ago)
+- [kreuzwerker/blog-log4j-dependency-update](https://github.com/kreuzwerker/blog-log4j-dependency-update) -  (1 month ago)
 - [tinexw/cdc-demo](https://github.com/tinexw/cdc-demo) -  (2 months ago)
 - [kreuzwerker/blog-testing-with-cdk](https://github.com/kreuzwerker/blog-testing-with-cdk) - Examples from blog post https://kreuzwerker.de/post/infrastructure-tests-with-cdk (5 months ago)
 - [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) - GitHub Action that generates code coverage reports (7 months ago)
