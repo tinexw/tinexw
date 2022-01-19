@@ -28,7 +28,7 @@
 - [kreuzwerker/blog-testing-with-cdk](https://github.com/kreuzwerker/blog-testing-with-cdk) - Examples from blog post https://kreuzwerker.de/post/infrastructure-tests-with-cdk (5 months ago)
 - [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) - GitHub Action that generates code coverage reports (7 months ago)
 - [pact-foundation/docs.pact.io](https://github.com/pact-foundation/docs.pact.io) - Pact documentation website (8 months ago)
-- [tinexw/cdk-intro](https://github.com/tinexw/cdk-intro) - Intro to AWS CDK (9 months ago)
+- [tinexw/cdk-intro](https://github.com/tinexw/cdk-intro) - Intro to AWS CDK (10 months ago)
 - [tinexw/cdc-with-pact](https://github.com/tinexw/cdc-with-pact) -  (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
