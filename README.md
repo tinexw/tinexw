@@ -22,7 +22,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) - The New Home for Spring Cloud AWS (1 month ago)
+- [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) - The New Home for Spring Cloud AWS (2 months ago)
 - [kreuzwerker/blog-log4j-dependency-update](https://github.com/kreuzwerker/blog-log4j-dependency-update) -  (2 months ago)
 - [tinexw/cdc-demo](https://github.com/tinexw/cdc-demo) -  (3 months ago)
 - [kreuzwerker/blog-testing-with-cdk](https://github.com/kreuzwerker/blog-testing-with-cdk) - Examples from blog post https://kreuzwerker.de/post/infrastructure-tests-with-cdk (6 months ago)
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) ([v2.3.4](https://github.com/awspring/spring-cloud-aws/releases/tag/v2.3.4), today) - The New Home for Spring Cloud AWS
+- [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) ([v2.3.4](https://github.com/awspring/spring-cloud-aws/releases/tag/v2.3.4), 1 day ago) - The New Home for Spring Cloud AWS
 - [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) ([v0.5.1](https://github.com/barecheck/code-coverage-action/releases/tag/v0.5.1), 5 months ago) - GitHub Action that generates code coverage reports
 
 
