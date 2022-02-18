@@ -28,11 +28,11 @@
 - [kreuzwerker/blog-testing-with-cdk](https://github.com/kreuzwerker/blog-testing-with-cdk) - Examples from blog post https://kreuzwerker.de/post/infrastructure-tests-with-cdk (6 months ago)
 - [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) - GitHub Action that generates code coverage reports (8 months ago)
 - [pact-foundation/docs.pact.io](https://github.com/pact-foundation/docs.pact.io) - Pact documentation website (9 months ago)
-- [tinexw/cdk-intro](https://github.com/tinexw/cdk-intro) - Intro to AWS CDK (10 months ago)
+- [tinexw/cdk-intro](https://github.com/tinexw/cdk-intro) - Intro to AWS CDK (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) ([v2.4.0](https://github.com/awspring/spring-cloud-aws/releases/tag/v2.4.0), 1 day ago) - The New Home for Spring Cloud AWS
+- [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) ([v2.4.0](https://github.com/awspring/spring-cloud-aws/releases/tag/v2.4.0), 2 days ago) - The New Home for Spring Cloud AWS
 - [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) ([v0.5.1](https://github.com/barecheck/code-coverage-action/releases/tag/v0.5.1), 5 months ago) - GitHub Action that generates code coverage reports
 
 
