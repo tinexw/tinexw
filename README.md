@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) ([v2.4.0](https://github.com/awspring/spring-cloud-aws/releases/tag/v2.4.0), 5 days ago) - The New Home for Spring Cloud AWS
+- [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) ([v2.4.0](https://github.com/awspring/spring-cloud-aws/releases/tag/v2.4.0), 6 days ago) - The New Home for Spring Cloud AWS
 - [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) ([v0.5.1](https://github.com/barecheck/code-coverage-action/releases/tag/v0.5.1), 6 months ago) - GitHub Action that generates code coverage reports
 
 
