@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) ([v0.6.1](https://github.com/barecheck/code-coverage-action/releases/tag/v0.6.1), 1 day ago) - GitHub Action that generates code coverage reports
+- [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) ([v0.6.1](https://github.com/barecheck/code-coverage-action/releases/tag/v0.6.1), 2 days ago) - GitHub Action that generates code coverage reports
 - [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) ([v2.4.0](https://github.com/awspring/spring-cloud-aws/releases/tag/v2.4.0), 4 weeks ago) - The New Home for Spring Cloud AWS
 
 
