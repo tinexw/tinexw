@@ -9,7 +9,7 @@
 
 #### ✍️ My Blog Posts
 
-- [Reduce Security Risks by Keeping Dependencies Up-To-Date with GitHub Actions and Dependabot](https://medium.com/kreuzwerker-gmbh/reduce-security-risks-by-keeping-dependencies-up-to-date-with-github-actions-and-dependabot-e4ca2da48c63?source=rss-89559c85e3f4------2) (3 months ago)
+- [Reduce Security Risks by Keeping Dependencies Up-To-Date with GitHub Actions and Dependabot](https://medium.com/kreuzwerker-gmbh/reduce-security-risks-by-keeping-dependencies-up-to-date-with-github-actions-and-dependabot-e4ca2da48c63?source=rss-89559c85e3f4------2) (4 months ago)
 - [Brief Primer on AWS CDK](https://medium.com/kreuzwerker-gmbh/brief-primer-on-aws-cloud-development-kit-cdk-a538d1263c1d?source=rss-89559c85e3f4------2) (8 months ago)
 - [Infrastructure Tests with AWS CDK](https://medium.com/kreuzwerker-gmbh/infrastructure-tests-with-cdk-99e8a163286a?source=rss-89559c85e3f4------2) (8 months ago)
 - [Parameterized Tests — My Favorite JUnit 5 Feature](https://medium.com/kreuzwerker-gmbh/my-favorite-feature-of-junit-5-or-why-you-should-upgrade-to-junit-5-4cf88478863?source=rss-89559c85e3f4------2) (2 years ago)
@@ -31,8 +31,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) ([v2.4.1](https://github.com/awspring/spring-cloud-aws/releases/tag/v2.4.1), 3 days ago) - The New Home for Spring Cloud AWS
-- [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) ([v0.6.1](https://github.com/barecheck/code-coverage-action/releases/tag/v0.6.1), 4 weeks ago) - GitHub Action that generates code coverage reports
+- [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) ([v2.4.1](https://github.com/awspring/spring-cloud-aws/releases/tag/v2.4.1), 4 days ago) - The New Home for Spring Cloud AWS
+- [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) ([v0.6.1](https://github.com/barecheck/code-coverage-action/releases/tag/v0.6.1), 1 month ago) - GitHub Action that generates code coverage reports
 
 
 #### ✨ Stats
