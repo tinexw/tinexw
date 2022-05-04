@@ -26,12 +26,12 @@
 - [kreuzwerker/blog-log4j-dependency-update](https://github.com/kreuzwerker/blog-log4j-dependency-update) -  (4 months ago)
 - [tinexw/cdc-demo](https://github.com/tinexw/cdc-demo) -  (6 months ago)
 - [kreuzwerker/blog-testing-with-cdk](https://github.com/kreuzwerker/blog-testing-with-cdk) - Examples from blog post https://kreuzwerker.de/post/infrastructure-tests-with-cdk (9 months ago)
-- [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) - GitHub Action that generates code coverage reports (10 months ago)
+- [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) - GitHub Action that generates code coverage reports (11 months ago)
 - [pact-foundation/docs.pact.io](https://github.com/pact-foundation/docs.pact.io) - Pact documentation website (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) ([v2.3.5](https://github.com/awspring/spring-cloud-aws/releases/tag/v2.3.5), today) - The New Home for Spring Cloud AWS
+- [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) ([v2.3.5](https://github.com/awspring/spring-cloud-aws/releases/tag/v2.3.5), 1 day ago) - The New Home for Spring Cloud AWS
 - [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) ([v1.0.0](https://github.com/barecheck/code-coverage-action/releases/tag/v1.0.0), 1 week ago) - GitHub Action that generates code coverage reports
 
 
