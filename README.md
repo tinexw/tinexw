@@ -26,7 +26,7 @@
 - [kreuzwerker/blog-log4j-dependency-update](https://github.com/kreuzwerker/blog-log4j-dependency-update) -  (5 months ago)
 - [tinexw/cdc-demo](https://github.com/tinexw/cdc-demo) -  (7 months ago)
 - [kreuzwerker/blog-testing-with-cdk](https://github.com/kreuzwerker/blog-testing-with-cdk) - Examples from blog post https://kreuzwerker.de/post/infrastructure-tests-with-cdk (10 months ago)
-- [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) - GitHub Action that generates code coverage reports (11 months ago)
+- [barecheck/code-coverage-action](https://github.com/barecheck/code-coverage-action) - GitHub Action that generates code coverage reports (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
