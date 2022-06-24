@@ -10,8 +10,8 @@
 #### ✍️ My Blog Posts
 
 - [Reduce Security Risks by Keeping Dependencies Up-To-Date with GitHub Actions and Dependabot](https://medium.com/kreuzwerker-gmbh/reduce-security-risks-by-keeping-dependencies-up-to-date-with-github-actions-and-dependabot-e4ca2da48c63?source=rss-89559c85e3f4------2) (6 months ago)
-- [Brief Primer on AWS CDK](https://medium.com/kreuzwerker-gmbh/brief-primer-on-aws-cloud-development-kit-cdk-a538d1263c1d?source=rss-89559c85e3f4------2) (10 months ago)
-- [Infrastructure Tests with AWS CDK](https://medium.com/kreuzwerker-gmbh/infrastructure-tests-with-cdk-99e8a163286a?source=rss-89559c85e3f4------2) (10 months ago)
+- [Brief Primer on AWS CDK](https://medium.com/kreuzwerker-gmbh/brief-primer-on-aws-cloud-development-kit-cdk-a538d1263c1d?source=rss-89559c85e3f4------2) (11 months ago)
+- [Infrastructure Tests with AWS CDK](https://medium.com/kreuzwerker-gmbh/infrastructure-tests-with-cdk-99e8a163286a?source=rss-89559c85e3f4------2) (11 months ago)
 - [Parameterized Tests — My Favorite JUnit 5 Feature](https://medium.com/kreuzwerker-gmbh/my-favorite-feature-of-junit-5-or-why-you-should-upgrade-to-junit-5-4cf88478863?source=rss-89559c85e3f4------2) (2 years ago)
 - [Migrating Pact Contract Tests from JUnit4 to JUni5](https://medium.com/kreuzwerker-gmbh/migrating-pact-contract-tests-from-junit4-to-juni5-d02194637903?source=rss-89559c85e3f4------2) (2 years ago)
 - [Tips &amp; Tricks for better log analysis with Kibana — Part 3: How to improve usability and…](https://medium.com/kreuzwerker-gmbh/tips-tricks-for-better-log-analysis-with-kibana-part-3-2205266a7779?source=rss-89559c85e3f4------2) (3 years ago)
