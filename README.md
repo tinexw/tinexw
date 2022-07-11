@@ -23,7 +23,7 @@
 #### 👩‍💻 Check out what I'm currently working on
 
 - [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) - The New Home for Spring Cloud AWS (6 months ago)
-- [kreuzwerker/blog-log4j-dependency-update](https://github.com/kreuzwerker/blog-log4j-dependency-update) -  (6 months ago)
+- [kreuzwerker/blog-log4j-dependency-update](https://github.com/kreuzwerker/blog-log4j-dependency-update) -  (7 months ago)
 - [tinexw/cdc-demo](https://github.com/tinexw/cdc-demo) -  (8 months ago)
 - [kreuzwerker/blog-testing-with-cdk](https://github.com/kreuzwerker/blog-testing-with-cdk) - Examples from blog post https://kreuzwerker.de/post/infrastructure-tests-with-cdk (11 months ago)
 
