@@ -25,11 +25,11 @@
 - [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) - The New Home for Spring Cloud AWS (7 months ago)
 - [kreuzwerker/blog-log4j-dependency-update](https://github.com/kreuzwerker/blog-log4j-dependency-update) -  (7 months ago)
 - [tinexw/cdc-demo](https://github.com/tinexw/cdc-demo) -  (9 months ago)
-- [kreuzwerker/blog-testing-with-cdk](https://github.com/kreuzwerker/blog-testing-with-cdk) - Examples from blog post https://kreuzwerker.de/post/infrastructure-tests-with-cdk (11 months ago)
+- [kreuzwerker/blog-testing-with-cdk](https://github.com/kreuzwerker/blog-testing-with-cdk) - Examples from blog post https://kreuzwerker.de/post/infrastructure-tests-with-cdk (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) ([v2.4.2](https://github.com/awspring/spring-cloud-aws/releases/tag/v2.4.2), 1 day ago) - The New Home for Spring Cloud AWS
+- [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) ([v2.4.2](https://github.com/awspring/spring-cloud-aws/releases/tag/v2.4.2), 2 days ago) - The New Home for Spring Cloud AWS
 
 
 #### ✨ Stats
