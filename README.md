@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) ([v2.4.2](https://github.com/awspring/spring-cloud-aws/releases/tag/v2.4.2), 5 days ago) - The New Home for Spring Cloud AWS
+- [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) ([v2.4.2](https://github.com/awspring/spring-cloud-aws/releases/tag/v2.4.2), 6 days ago) - The New Home for Spring Cloud AWS
 
 
 #### ✨ Stats
