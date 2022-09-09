@@ -23,12 +23,12 @@
 #### 👩‍💻 Check out what I'm currently working on
 
 - [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) - The New Home for Spring Cloud AWS (8 months ago)
-- [kreuzwerker/blog-log4j-dependency-update](https://github.com/kreuzwerker/blog-log4j-dependency-update) -  (8 months ago)
+- [kreuzwerker/blog-log4j-dependency-update](https://github.com/kreuzwerker/blog-log4j-dependency-update) -  (9 months ago)
 - [tinexw/cdc-demo](https://github.com/tinexw/cdc-demo) -  (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) ([v3.0.0-M2](https://github.com/awspring/spring-cloud-aws/releases/tag/v3.0.0-M2), 6 days ago) - The New Home for Spring Cloud AWS
+- [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) ([v3.0.0-M2](https://github.com/awspring/spring-cloud-aws/releases/tag/v3.0.0-M2), 1 week ago) - The New Home for Spring Cloud AWS
 
 
 #### ✨ Stats
