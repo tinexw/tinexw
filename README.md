@@ -23,7 +23,7 @@
 #### 👩‍💻 Check out what I'm currently working on
 
 - [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) - The New Home for Spring Cloud AWS (11 months ago)
-- [kreuzwerker/blog-log4j-dependency-update](https://github.com/kreuzwerker/blog-log4j-dependency-update) -  (11 months ago)
+- [kreuzwerker/blog-log4j-dependency-update](https://github.com/kreuzwerker/blog-log4j-dependency-update) -  (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
