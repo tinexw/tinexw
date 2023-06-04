@@ -14,7 +14,7 @@
 - [Infrastructure Tests with AWS CDK](https://medium.com/kreuzwerker-gmbh/infrastructure-tests-with-cdk-99e8a163286a?source=rss-89559c85e3f4------2) (2 years ago)
 - [Parameterized Tests — My Favorite JUnit 5 Feature](https://medium.com/kreuzwerker-gmbh/my-favorite-feature-of-junit-5-or-why-you-should-upgrade-to-junit-5-4cf88478863?source=rss-89559c85e3f4------2) (2 years ago)
 - [Migrating Pact Contract Tests from JUnit4 to JUni5](https://medium.com/kreuzwerker-gmbh/migrating-pact-contract-tests-from-junit4-to-juni5-d02194637903?source=rss-89559c85e3f4------2) (3 years ago)
-- [Tips &amp; Tricks for better log analysis with Kibana — Part 3: How to improve usability and…](https://medium.com/kreuzwerker-gmbh/tips-tricks-for-better-log-analysis-with-kibana-part-3-2205266a7779?source=rss-89559c85e3f4------2) (3 years ago)
+- [Tips &amp; Tricks for better log analysis with Kibana — Part 3: How to improve usability and…](https://medium.com/kreuzwerker-gmbh/tips-tricks-for-better-log-analysis-with-kibana-part-3-2205266a7779?source=rss-89559c85e3f4------2) (4 years ago)
 - [Tips &amp; Tricks for better log analysis with Kibana — Part 2: How to deal with unknown fields](https://medium.com/kreuzwerker-gmbh/tips-tricks-for-better-log-analysis-with-kibana-part-2-6ec33634b4e7?source=rss-89559c85e3f4------2) (4 years ago)
 - [Tips &amp; Tricks for better log analysis with Kibana — Part 1: Why the mapping is so important](https://medium.com/kreuzwerker-gmbh/tips-tricks-for-better-log-analysis-with-kibana-part-1-7167af111310?source=rss-89559c85e3f4------2) (4 years ago)
 - [Consumer-Driven Contract Tests: Lessons Learned](https://medium.com/kreuzwerker-gmbh/consumer-driven-contract-tests-lessons-learned-b4e1ac471d0c?source=rss-89559c85e3f4------2) (4 years ago)
