@@ -15,6 +15,16 @@
 ### Each card usage
 ---
 
+![](./0-profile-details.svg)
+
+```
+![](https://raw.githubusercontent.com/tinexw/tinexw/main/profile-summary-card-output/blueberry/0-profile-details.svg)
+```
+
+    
+
+---
+
 ![](./1-repos-per-language.svg)
 
 ```
